@@ -8,7 +8,7 @@ pipeline {
         }
         stage('ex') {
             steps {
-                echo 'good123'
+                echo 'good1234'
             }
         }
     }
